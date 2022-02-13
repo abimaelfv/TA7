@@ -34,7 +34,7 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a href="#" class="nav-link">Fallecidos</a>
+                            <a href="{{ route('fallecidos.index') }}" class="nav-link">Fallecidos</a>
                         </li>
                     </ul>
 
